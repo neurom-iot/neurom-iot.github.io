@@ -22,4 +22,12 @@
 - IoT program and spiking neural network model emulator and debugger development through NAAL
 - Implementation and development environment to support diverse Lomographic architectures
 
+# Members
+- Gun Myung Lee (PL of N3ML)
+- [andy-yun](https://github.com/andy-yun) Young-Sun Yoon (PL of NAIDE)
+- Jiman Hong (PL of NAAL)
+- [jyheo](https://github.com/jyheo) Junyoung Heo 
+- Jinman Jung
+- [qkfrjffp](https://github.com/qkfrjffp) Hong Min
+- [BongjaeKim](https://github.com/BongjaeKim) Bongjae Kim
 
